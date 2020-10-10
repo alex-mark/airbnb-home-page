@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+}
+
+.header__icon {
+  object-fit: contain;
+  height: 100px;
+  margin-left: 20px;
+}
+
+.header__center {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.header__right {
+  display: flex;
+  align-items: center;
+}
