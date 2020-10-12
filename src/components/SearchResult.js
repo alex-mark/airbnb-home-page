@@ -25,16 +25,16 @@ function SearchResult({
           <p>{description}</p>
         </div>
 
-        <div className="searchResult__infoBotton">
+        <div className="searchResult__infoBottom">
           <div className="searchResult__stars">
-            <StarIcon />
+            <StarIcon className="searchResult__star" />
             <p>
               <stron>{star}</stron>
             </p>
           </div>
 
           <div className="searchResult__price">
-            <p>{price}</p>
+            <h3>{price}</h3>
             <p>{total}</p>
           </div>
         </div>
