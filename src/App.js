@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Header from "./components/Header";
 import Home from "./components/Home";
+import SearchPage from "./components/SearchPage";
 import Footer from "./components/Footer";
 
 function App() {
@@ -12,10 +13,10 @@ function App() {
         <Header />
 
         <Switch>
-          <Route to="/" exact>
+          <Route path="/" exact>
             <Home />
           </Route>
-          <Route to="/search">
+          <Route path="/search">
             <SearchPage />
           </Route>
         </Switch>
