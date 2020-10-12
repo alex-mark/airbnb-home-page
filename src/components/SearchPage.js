@@ -47,7 +47,7 @@ function SearchPage() {
       />
 
       <SearchResult
-        img="https://www.smartertravel.com/uploads/2017/07/Untitled-design-8.jpg"
+        img="https://a0.muscache.com/im/pictures/f5ed6750-0d12-46d1-a996-a1c7347cfc95.jpg?im_w=1200"
         location="Private toom in center of London"
         title="London Studio Apartments"
         description="1 guest - 1 bedroom - 1 bed - 1.5 shared bathrooms - WiFi - Kitchen - Free parking - Washing Machine"
