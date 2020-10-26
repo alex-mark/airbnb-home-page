@@ -1,4 +1,4 @@
-# Aibnb Home Page
+# Aibnb Home Page Clone
 
 ## [Try it](https://airbnb-clone-18d4e.web.app)
 
